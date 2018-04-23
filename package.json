@@ -1,6 +1,6 @@
 {
   "name": "bugfixes-endpoint-application-version-get",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "BugFixes Application Get Version Endpoint",
   "main": "index.js",
   "author": "keloran <keloran@bugfix.es>",
